@@ -1,0 +1,4 @@
+[submodule "cowsay"]
+	path = cowsay
+	url = https://github.com/primatesolns/cowsay.git
+	branch = add-cows
